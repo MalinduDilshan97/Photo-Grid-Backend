@@ -15,8 +15,8 @@ export const createImage = async (image) => {
   }
 };
 
-export const saveImages = async (images) => {
-  return images.map((image) => {
+export const saveImages = async (imageArray) => {
+  return imageArray.images.map((image) => {
     return createImage(image);
   });
 };
