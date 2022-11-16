@@ -1,6 +1,6 @@
-# Node Rest API
+# Getting Started with Photo Grid Application
 
-This project is a REST API with Node.js and Express.
+Run the [Photo Grid Frontend Application](https://github.com/MalinduDilshan97/Photo-Grid-Frontend) to save images.
 
 ## Installation
 - Install dependencies
@@ -13,3 +13,9 @@ npm install
 ```bash
 npm start
 ```
+
+## Used Technologies
+- Node.js
+- Express.js
+- TypeScript
+- Mongo DB
